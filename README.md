@@ -27,6 +27,14 @@ This repository is intended to share code, please don't submit any samples (root
 	* Don't be shy with your message! Clear (long) messages allow a better collaboration. 
 * And push! : git push origin master
 
+In order to create and submit to your own branch, please follow these instructions:
+* Create your branch: git branch branch_name
+* Get the list of branches: git branch
+* Switch to your branch: git checkout branch_name
+* Pull and push from your branch:
+	* git pull origin branch_name√
+	* git push origin branch_name
+
 ## **Running the code**
 
 _To be filled up by Ronald_
