@@ -41,7 +41,7 @@ _To be filled up by Ronald_
 
 ## **Bibliography**
 
-1. Final report from Andr√s Felipe Garc√≠a:
+1. Final report from Andres Felipe Garcia:
 	* https://github.com/andresfgarcia150/ISR_tagging_project/blob/master/Documentation/Final_report.pdf
 2. David Krohn and Lisa Randal:
 	* http://arxiv.org/pdf/1101.0810v1.pdf
