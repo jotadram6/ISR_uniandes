@@ -17,9 +17,40 @@ Follow the instructions here: https://guides.github.com/features/mastering-markd
 
 ## **Minimal instructions**
 A git repository is based on retrivieng (pull) and sending (push) from and for the repository.
-_*Don't forget to always pull before start working and to commit and push when you are done!!!*_
+
+_Don't forget to **always pull before start working** and to **commit and push when you are done**!!!_
+
+This repository is intended to share code, please don't submit any samples (root, lhe, hep files)!
 * Get all the changes from other contributors: git pull origin master
 * Add the new files you want to submit to the repository: git add _filename_
 * Commit your changes: git commit -a -m "Your commit message"
 	* Don't be shy with your message! Clear (long) messages allow a better collaboration. 
 * And push! : git push origin master
+
+## **Running the code**
+
+_To be filled up by Ronald_
+
+## **Bibliography**
+
+1. Final report from Andr√s Felipe Garc√≠a:
+	* https://github.com/andresfgarcia150/ISR_tagging_project/blob/master/Documentation/Final_report.pdf
+2. David Krohn and Lisa Randal:
+	* http://arxiv.org/pdf/1101.0810v1.pdf
+3. Teruki:
+	* PRD 92, 095009
+	* PRD 90, 095002
+4. http://arxiv.org/pdf/1506.07885v1.pdf
+5. Lian-Tao:
+	* http://arxiv.org/pdf/1506.00653v1.pdf
+
+CMS-related:
+1. XS's: 
+	* https://twiki.cern.ch/twiki/bin/view/LHCPhysics/SUSYCrossSections
+	* https://twiki.cern.ch/twiki/bin/view/CMSPublic/WinoCn
+	* http://pauli.uni-muenster.de/~akule_01/nllwiki/index.php/NLL-fast
+2. https://twiki.cern.ch/twiki/bin/view/CMS/SMSTChiSlepSnuMadgraph8TeV
+3. https://twiki.cern.ch/twiki/bin/view/CMS/SMST2DegenerateStopMadgraph8TeV
+4. https://twiki.cern.ch/twiki/bin/viewauth/CMS/SMST2ccMadgraph8TeV
+5. Analysis: https://cds.cern.ch/record/2010110/files/SUS-14-021-pas.pdf
+
