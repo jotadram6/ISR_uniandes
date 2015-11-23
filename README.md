@@ -32,7 +32,7 @@ In order to create and submit to your own branch, please follow these instructio
 * Get the list of branches: git branch
 * Switch to your branch: git checkout branch_name
 * Pull and push from your branch:
-	* git pull origin branch_name√
+	* git pull origin branch_name
 	* git push origin branch_name
 
 ## **Running the code**
@@ -53,7 +53,8 @@ _To be filled up by Ronald_
 	* http://arxiv.org/pdf/1506.00653v1.pdf
 
 CMS-related:
-1. XS's: 
+
+1. XS's:
 	* https://twiki.cern.ch/twiki/bin/view/LHCPhysics/SUSYCrossSections
 	* https://twiki.cern.ch/twiki/bin/view/CMSPublic/WinoCn
 	* http://pauli.uni-muenster.de/~akule_01/nllwiki/index.php/NLL-fast
