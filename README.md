@@ -36,8 +36,14 @@ In order to create and submit to your own branch, please follow these instructio
 	* git push origin branch_name
 
 ## **Running the code**
-
-_To be filled up by Ronald_
+1) Se debe realizar el correspondiente ajuste de los directorios en donde van a quedar los .root en el archivo ISR_matching.cpp y en el config_file.txt para el 
+ISR_matching, ISR_tagging y el ISR_jet_analysis.
+2) Primero se compila el ISR_Matching con el comando "make compile_ROOT_Delphes" que permite compilar ROOT con DELPHES.
+3) Ahora se corre el ejecutable con "./ISR_matching config_file.txt".
+4) Se realiza el mismo procedimiento de compilar y correr el ejecutable para el ISR tagging ("make compile_ROOT_Delphes" y luego "./ISR_tagging config_file.txt")
+ y el ISR jet Analysis ("make compile_ROOT_Delphes" y luego "./ISR_jet_analysis config_file.txt").
+5) Es importante realizar las compilaciones de esta forma lineal, teniendo en cuenta que el ISR jet Analysis corre sobre los resultados arrojados por el algoritmo de 
+matching.
 
 ## **Bibliography**
 
