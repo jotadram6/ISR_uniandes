@@ -1,0 +1,188 @@
+! Stop 200 GeV y LSP de 20 GeV
+! Line of comments
+! head_folder is the folder where all the simulations of the same kind are stored
+head_folder=/home/rrodriguez/Simulación/MG_pythia8_delphes_parallel/Runs/
+!
+! current_folder is the name of the folder located inside head_folder that corresponds to the same run. The last three digits are the seed of such simulation. They are modified according to the seed the user defines when executing the code
+current_folder=Susy_stops1_13Tev_con_1_ISR_stop_200_N1_20_001/
+!
+! head_folder_binary is te drirectory where the matching results are stored
+head_folder_binary=/home/rrodriguez/Simulación/Results_Improved_Codes_Susy_stops_200_N1_20/matching_Results/Stops_200_N1_20_matchs_WI_Matching/
+!
+! matching_name is the name of the matching algorithm result. Again, the last three digits are the seed of the simulation
+matching_name=ISR_jets_Susy_stops_200_N1_20_WI_001.bn
+!
+! head_folder_results is the name of the directory where the results will be located
+head_folder_results=/home/rrodriguez/Simulación/Results_Improved_Codes_Susy_stops_200_N1_20/resultsTagging/Stops_200_N1_20_histos_WI_Matching/
+!
+!
+!
+!
+!Stop 200 GeV y LSP de 35 GeV
+! Line of comments
+! head_folder is the folder where all the simulations of the same kind are stored
+!head_folder=/home/rrodriguez/Simulación/MG_pythia8_delphes_parallel/Runs/
+!
+! current_folder is the name of the folder located inside head_folder that corresponds to the same run. The last three digits are the seed of such simulation. They are modified according to the seed the user defines when executing the code
+!current_folder=Susy_stops1_13Tev_con_1_ISR_stop_200_N1_35_001/
+!
+! head_folder_binary is te drirectory where the matching results are stored
+!head_folder_binary=/home/rrodriguez/Simulación/Results_Improved_Codes_Susy_stops_200_N1_35/matching_Results/Stops_200_N1_35_matchs_WI_Matching/
+!
+! matching_name is the name of the matching algorithm result. Again, the last three digits are the seed of the simulation
+!matching_name=ISR_jets_Susy_stops_200_N1_35_WI_001.bn
+!
+! head_folder_results is the name of the directory where the results will be located
+!head_folder_results=/home/rrodriguez/Simulación/Results_Improved_Codes_Susy_stops_200_N1_35/resultsTagging/Stops_200_N1_35_histos_WI_Matching/
+!
+!
+!
+!Stop 300 GeV y LSP de 120 GeV
+! Line of comments
+! head_folder is the folder where all the simulations of the same kind are stored
+!head_folder=/home/rrodriguez/Simulación/MG_pythia8_delphes_parallel/Runs/
+!
+! current_folder is the name of the folder located inside head_folder that corresponds to the same run. The last three digits are the seed of such simulation. They are modified according to the seed the user defines when executing the code
+!current_folder=Susy_stops1_13Tev_con_1_ISR_stop_300_N1_120_001/
+!
+! head_folder_binary is te drirectory where the matching results are stored
+!head_folder_binary=/home/rrodriguez/Simulación/Results_Improved_Codes_Susy_stops_300_N1_120/matching_Results/Stops_300_N1_120_matchs_WI_Matching/
+!
+! matching_name is the name of the matching algorithm result. Again, the last three digits are the seed of the simulation
+!matching_name=ISR_jets_Susy_stops_300_N1_120_WI_001.bn
+!
+! head_folder_results is the name of the directory where the results will be located
+!head_folder_results=/home/rrodriguez/Simulación/Results_Improved_Codes_Susy_stops_300_N1_120/resultsTagging/Stops_300_N1_120_histos_WI_Matching/
+!
+!
+!
+!
+!Stop 300 GeV y LSP de 135 GeV
+! Line of comments
+! head_folder is the folder where all the simulations of the same kind are stored
+!head_folder=/home/rrodriguez/Simulación/MG_pythia8_delphes_parallel/Runs/
+!
+! current_folder is the name of the folder located inside head_folder that corresponds to the same run. The last three digits are the seed of such simulation. They are modified according to the seed the user defines when executing the code
+!current_folder=Susy_stops1_13Tev_con_1_ISR_stop_300_N1_135_001/
+!
+! head_folder_binary is te drirectory where the matching results are stored
+!head_folder_binary=/home/rrodriguez/Simulación/Results_Improved_Codes_Susy_stops_300_N1_135/matching_Results/Stops_300_N1_135_matchs_WI_Matching/
+!
+! matching_name is the name of the matching algorithm result. Again, the last three digits are the seed of the simulation
+!matching_name=ISR_jets_Susy_stops_300_N1_135_WI_001.bn
+!
+! head_folder_results is the name of the directory where the results will be located
+!head_folder_results=/home/rrodriguez/Simulación/Results_Improved_Codes_Susy_stops_300_N1_135/resultsTagging/Stops_300_N1_135_histos_WI_Matching/
+!
+!
+!
+!
+!Stop 400 GeV y LSP de 220 GeV
+! Line of comments
+! head_folder is the folder where all the simulations of the same kind are stored
+!head_folder=/home/rrodriguez/Simulación/MG_pythia8_delphes_parallel/Runs/
+!
+! current_folder is the name of the folder located inside head_folder that corresponds to the same run. The last three digits are the seed of such simulation. They are modified according to the seed the user defines when executing the code
+!current_folder=Susy_stops1_13Tev_con_1_ISR_stop_400_N1_220_001/
+!
+! head_folder_binary is te drirectory where the matching results are stored
+!head_folder_binary=/home/rrodriguez/Simulación/Results_Improved_Codes_Susy_stops_400_N1_220/matching_Results/Stops_400_N1_220_matchs_WI_Matching/
+!
+! matching_name is the name of the matching algorithm result. Again, the last three digits are the seed of the simulation
+!matching_name=ISR_jets_Susy_stops_400_N1_220_WI_001.bn
+!
+! head_folder_results is the name of the directory where the results will be located
+!head_folder_results=/home/rrodriguez/Simulación/Results_Improved_Codes_Susy_stops_400_N1_220/resultsTagging/Stops_400_N1_220_histos_WI_Matching/
+!
+!
+!Stop 400 GeV y LSP de 235 GeV
+! Line of comments
+! head_folder is the folder where all the simulations of the same kind are stored
+!head_folder=/home/rrodriguez/Simulación/MG_pythia8_delphes_parallel/Runs/
+!
+! current_folder is the name of the folder located inside head_folder that corresponds to the same run. The last three digits are the seed of such simulation. They are modified according to the seed the user defines when executing the code
+!current_folder=Susy_stops1_13Tev_con_1_ISR_stop_400_N1_235_001/
+!
+! head_folder_binary is te drirectory where the matching results are stored
+!head_folder_binary=/home/rrodriguez/Simulación/Results_Improved_Codes_Susy_stops_400_N1_235/matching_Results/Stops_400_N1_235_matchs_WI_Matching/
+!
+! matching_name is the name of the matching algorithm result. Again, the last three digits are the seed of the simulation
+!matching_name=ISR_jets_Susy_stops_400_N1_235_WI_001.bn
+!
+! head_folder_results is the name of the directory where the results will be located
+!head_folder_results=/home/rrodriguez/Simulación/Results_Improved_Codes_Susy_stops_400_N1_235/resultsTagging/Stops_400_N1_235_histos_WI_Matching/
+!
+!
+!Stop 500 GeV y LSP de 320 GeV
+! Line of comments
+! head_folder is the folder where all the simulations of the same kind are stored
+!head_folder=/home/rrodriguez/Simulación/MG_pythia8_delphes_parallel/Runs/
+!
+! current_folder is the name of the folder located inside head_folder that corresponds to the same run. The last three digits are the seed of such simulation. They are modified according to the seed the user defines when executing the code
+!current_folder=Susy_stops1_13Tev_con_1_ISR_stop_500_N1_320_001/
+!
+! head_folder_binary is te drirectory where the matching results are stored
+!head_folder_binary=/home/rrodriguez/Simulación/Results_Improved_Codes_Susy_stops_500_N1_320/matching_Results/Stops_500_N1_320_matchs_WI_Matching/
+!
+! matching_name is the name of the matching algorithm result. Again, the last three digits are the seed of the simulation
+!matching_name=ISR_jets_Susy_stops_500_N1_320_WI_001.bn
+!
+! head_folder_results is the name of the directory where the results will be located
+!head_folder_results=/home/rrodriguez/Simulación/Results_Improved_Codes_Susy_stops_500_N1_320/resultsTagging/Stops_500_N1_320_histos_WI_Matching/
+!
+!
+!Stop de 400 GeV y de LSP de 100 GeV
+! Line of comments
+! head_folder is the folder where all the simulations of the same kind are stored
+!head_folder=/home/rrodriguez/Simulación/MG_pythia8_delphes_parallel/Runs/
+!
+! current_folder is the name of the folder located inside head_folder that corresponds to the same run. The last three digits are the seed of such simulation. They are modified according to the seed the user defines when executing the code
+!current_folder=Susy_stops1_13Tev_con_1_ISR_001/
+!
+! head_folder_binary is te drirectory where the matching results are stored
+!head_folder_binary=/home/rrodriguez/Simulación/Results_Improved_Codes/matching_Results/Stops1_matchs_WI_Matching/
+!
+! matching_name is the name of the matching algorithm result. Again, the last three digits are the seed of the simulation
+!matching_name=ISR_jets_Stops1_WI_001.bn
+!
+! head_folder_results is the name of the directory where the results will be located
+!head_folder_results=/home/rrodriguez/Simulación/Results_Improved_Codes/resultsTagging/Stops1_histos_WI_Matching/
+!
+!
+!
+!Background Semileptónico
+! Line of comments
+! head_folder is the folder where all the simulations of the same kind are stored
+!head_folder=/Disco1/Pheno/BackgroudSamples/ttbar_semileptonico/
+!
+! current_folder is the name of the folder located inside head_folder that corresponds to the same run. The last three digits are the seed of such simulation. They are modified according to the seed the user defines when executing the code
+!current_folder=Top_semileptónico_13TeV_con_ISR_001/
+!
+! head_folder_binary is te drirectory where the matching results are stored
+!head_folder_binary=/home/rrodriguez/Simulación/Results_Improved_Codes_Top_semileptónico/matching_Results/Top_semileptónico_matchs_WI_Matching/
+!
+! matching_name is the name of the matching algorithm result. Again, the last three digits are the seed of the simulation
+!matching_name=ISR_jets_Top_semileptónico_1_WI_001.bn
+!
+! head_folder_results is the name of the directory where the results will be located
+!head_folder_results=/home/rrodriguez/Simulación/Results_Improved_Codes_Top_semileptónico/resultsTagging/Top_semileptónico_histos_WI_Matching/
+!
+!
+!
+!Background Dileptónico
+! Line of comments
+! head_folder is the folder where all the simulations of the same kind are stored
+!head_folder=/Disco1/Pheno/BackgroudSamples/ttbar_dileptonico/
+!
+! current_folder is the name of the folder located inside head_folder that corresponds to the same run. The last three digits are the seed of such simulation. They are modified according to the seed the user defines when executing the code
+!current_folder=Top_leptónico_13TeV_con_ISR_001/
+!
+! head_folder_binary is te drirectory where the matching results are stored
+!head_folder_binary=/home/rrodriguez/Simulación/Results_Improved_Codes_Top_leptónico/matching_Results/Top_leptónico_matchs_WI_Matching/
+!
+! matching_name is the name of the matching algorithm result. Again, the last three digits are the seed of the simulation
+!matching_name=ISR_jets_Top_leptónico_1_WI_001.bn
+!
+! head_folder_results is the name of the directory where the results will be located
+!head_folder_results=/home/rrodriguez/Simulación/Results_Improved_Codes_Top_leptónico/resultsTagging/Top_leptónico_histos_WI_Matching/
+
