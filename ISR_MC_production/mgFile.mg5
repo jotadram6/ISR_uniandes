@@ -1,0 +1,11 @@
+import model mssm
+generate p p > j t1 t1~ , (t1 > t n1,(t > w+ b, w+ > j j)), (t1~ > t~ n1\
+,(t~ > w- b~, w- > vl~ l-))
+add process  p p > j t1 t1~ , (t1 > t n1,(t > w+ b, w+ > vl l+)), (t1~ > \
+  t~ n1,(t~ > w- b~, w- > j j))
+output FOLDEREVENTS/SUBFOLDERNAME_SEED -f
+launch -m
+NUMBERCORES
+pythia=OFF
+FOLDEREVENTS/RunCards/run_card_SEED.dat
+FOLDEREVENTS/ParamCard/param_card.dat
